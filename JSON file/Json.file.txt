@@ -1,0 +1,90 @@
+{
+  "Animals": [
+    {
+      "type": "cat",
+      "name": "Rushuk",
+      "age": 2,
+      "breed": "British Shorthair"
+    },
+    {
+      "type": "cat",
+      "name": "Sun",
+      "age": 3,
+      "breed": "Siamese"
+    },
+    {
+      "type": "cat",
+      "name": "Cat",
+      "age": 1,
+      "breed": "Persian cat"
+    },
+    {
+      "type": "dog",
+      "name": "Dik",
+      "age": 2,
+      "breed": "German Shepherd"
+    }
+  ],
+  "Food for cat": [
+    {
+      "type": "wet",
+      "brand": "Purina ONE ",
+      "weight": "100g",
+      "prise": "€2"
+    },
+    {
+      "type": "wet",
+      "brand": "Purizon",
+      "weight": "125g",
+      "prise": "€2.99"
+    },
+    {
+      "type": "dry",
+      "brand": "Royal Canin",
+      "weight": "1kg",
+      "prise": "€22.99"
+    },
+    {
+      "type": "dry",
+      "brand": "Affinity Ultima",
+      "weight": "3kg",
+      "prise": "€51.99"
+    }
+  ],
+  "Food for dog": [
+    {
+      "type": "dry",
+      "brand": "Royal Canin Breed ",
+      "weight": "12kg",
+      "prise": "€89.99"
+    },
+    {
+      "type": "dry",
+      "brand": "Crave ",
+      "weight": "7kg",
+      "prise": "€75"
+    },
+    {
+      "type": "wet",
+      "brand": "Purizon",
+      "mixed pack": {
+        "1-taste": "Lamb",
+        "2-taste": "Chicken",
+        "3-taste": "Pork"
+      },
+      "weight": "6x400g ",
+      "prise": "€14.99"
+    },
+    {
+      "type": "wet",
+      "brand": "Wolf of Wilderness",
+      "mixed pack": {
+        "1-taste": "Lamb",
+        "2-taste": "Chicken",
+        "3-taste": "Duck"
+      },
+      "weight": "24x400g ",
+      "prise": "€44.99"
+    }
+  ]
+}
