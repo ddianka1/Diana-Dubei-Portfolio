@@ -1,9 +1,24 @@
 
 ### Hi there 👋, my name is Diana Dubei.
-### I am a Junior Quality Assurance Engineer.
-I have recently completed comprehensive QA training courses.
-My goal is to leverage my theoretical knowledge and practical skills to contribute to the development of high-quality software products. As a proactive learner, I am constantly seeking opportunities to expand my knowledge and stay up-to-date with the latest industry trends.
-I am excited to contribute my skills and enthusiasm to a dynamic company where I can grow as a professional and make a meaningful impact on software quality assurance.
+### I am a Manual Quality Assurance Engineer.
+My skills:
+-Good knowledge of Software testing theory;
+-Knowledge of SDLC and STLC (Levels of Testing and Type of Testing, Test Design);
+-Finding and tracking bugs;
+-Creation of comprehensive test cases, checklists, and bug reports using tools such as TestRail, Jira, Confluence, and TestLink;
+-Analyzing user stories and requirements, estimating the tasks;
+-Skilled in conducting engaging demo presentations.;
+-Experience with Git, Git Bush, and Visual Studio Code;
+-Working with the Chrome DevTools;
+-Knowledge of HTML and CSS;
+-Knowledge of client-server architecture and web application testing;
+-API testing, creating HTTP requests;
+-Competent in database testing queries, particularly in MySQL;
+-Familiarity with performance testing tools like LightHouse;
+-Basic knowledge about creating automation testing in Selenium IDE;
+-Ability effectively to work as a team and to quickly learn, attention to detail;
+-Highly disciplined and organized approach to work.
+s
 ### Skills
 ![Postman](https://img.shields.io/badge/-Postman-orange)
 ![Jira](https://img.shields.io/badge/-Jira-blue)
