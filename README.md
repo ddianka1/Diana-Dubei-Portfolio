@@ -1,23 +1,22 @@
 
 ### Hi there 👋, my name is Diana Dubei.
 ### I am a Manual Quality Assurance Engineer.
-## My skills:
-# -Good knowledge of Software testing theory;
-# -Knowledge of SDLC and STLC (Levels of Testing and Type of Testing, Test Design);
-# -Finding and tracking bugs;
-# -Creation of comprehensive test cases, checklists, and bug reports using tools such as TestRail, Jira, Confluence, and TestLink;
-# -Analyzing user stories and requirements, estimating the tasks;
-# -Skilled in conducting engaging demo presentations.;
-# -Experience with Git, Git Bush, and Visual Studio Code;
-# -Working with the Chrome DevTools;
-# -Knowledge of HTML and CSS;
-# -Knowledge of client-server architecture and web application testing;
-# -API testing, creating HTTP requests;
-# -Competent in database testing queries, particularly in MySQL;
-# -Familiarity with performance testing tools like LightHouse;
-# -Basic knowledge about creating automation testing in Selenium IDE;
-# -Ability effectively to work as a team and to quickly learn, attention to detail;
-# -Highly disciplined and organized approach to work.
+### My skills:
+#### -Good knowledge of Software testing theory;
+#### -Knowledge of SDLC and STLC (Levels of Testing and Type of Testing, Test Design);
+#### -Finding and tracking bugs;
+#### -Creation of comprehensive test cases, checklists, and bug reports using tools such as TestRail, Jira, Confluence, and TestLink;
+#### -Analyzing user stories and requirements, estimating the tasks;
+#### -Skilled in conducting engaging demo presentations.;
+#### -Experience with Git, Git Bush, and Visual Studio Code;
+#### -Working with the Chrome DevTools;
+#### -Knowledge of HTML and CSS;
+#### -Knowledge of client-server architecture and web application testing;
+#### -API testing, creating HTTP requests;
+#### -Competent in database testing queries, particularly in MySQL;
+#### -Familiarity with performance testing tools like LightHouse;
+#### -Basic knowledge about creating automation testing in Selenium IDE;
+#### -Ability effectively to work as a team and to quickly learn, attention to detail;
 
 ### Skills
 ![Postman](https://img.shields.io/badge/-Postman-orange)
